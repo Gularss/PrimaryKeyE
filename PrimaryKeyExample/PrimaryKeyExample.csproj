@@ -109,6 +109,7 @@
     <Compile Include="Models\Kategori.cs" />
     <Compile Include="Models\Kitap.cs" />
     <Compile Include="Models\Musteri.cs" />
+    <Compile Include="Models\test.cs" />
     <Compile Include="Models\Urun.cs" />
     <Compile Include="Models\Yazar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
